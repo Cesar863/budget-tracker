@@ -2,7 +2,7 @@
 
 ### Github: https://github.com/Cesar863/budget-tracker
 
-### Deployed: (heroku)
+### Deployed: https://budget-tracker-cesar-martinez.herokuapp.com/
 
 ## Description:
 A progressive web application (PWA) that allows users to track their incomes and expenses. the app allows for users to track expenses offline and post them when they re-connect. The app shows an intuitive chart so users can track spending.
@@ -16,6 +16,15 @@ A progressive web application (PWA) that allows users to track their incomes and
 
 ## Screen Shots:
 
+<img width="1278" alt="Screen Shot 2022-03-12 at 9 23 54 PM" src="https://user-images.githubusercontent.com/90540881/158042229-23d58662-9a56-4bb2-a4d6-f0ea8ba4954b.png">
+
+<img width="1294" alt="Screen Shot 2022-03-12 at 9 25 02 PM" src="https://user-images.githubusercontent.com/90540881/158042231-00005f8f-0bad-4d2b-8d8f-c1cf054b3149.png">
+
+<img width="813" alt="Screen Shot 2022-03-12 at 9 25 39 PM" src="https://user-images.githubusercontent.com/90540881/158042241-db371705-9437-45e5-a832-0e7186b21d95.png">
+
+ PM.png…]()
+<img width="1184" alt="Screen Shot 2022-03-12 at 9 25 17 PM" src="https://user-images.githubusercontent.com/90540881/158042249-70f50f3f-548f-4ccc-a11a-b383f95fcfa6.png">
+
 ## Technologies:
 - HTML
 - CSS
@@ -26,6 +35,7 @@ A progressive web application (PWA) that allows users to track their incomes and
 - Morgan
 - Nodemon
 - webpack-dev-server
+- Heroku
 
 ## Created By
 Cesar Martinez
