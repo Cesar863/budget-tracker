@@ -34,8 +34,9 @@ A progressive web application (PWA) that allows users to track their incomes and
 - Express.Js
 - Morgan
 - Nodemon
-- webpack-dev-server
 - Heroku
+- webpack-dev-server
+
 
 ## Created By
 Cesar Martinez
